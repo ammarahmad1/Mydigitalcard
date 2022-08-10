@@ -1,0 +1,56 @@
+.mypic{
+    border-radius: 10px 10px 0px 0px;
+}
+.names-etc{
+    text-align: center;
+    background-color: #1A1B21;
+}
+
+.names-etc h2 {
+    color: white;
+    
+    background-color: #1A1B21;
+    margin: 0;
+}
+
+.names-etc h3 {
+    margin: 0;
+    
+    background-color: #1A1B21;
+    color: #F3BF99;
+}
+.names-etc a {
+    color: white;
+}
+
+.buttons {
+    display: flex;
+    margin-top: 10px;
+    background-color: #1A1B21;
+    width: 237px;
+    justify-content: center;
+}
+
+.button1{
+    background-color: white; 
+    border: none;
+    border-radius: 8px;
+    color: black;
+    padding: 8px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button2{
+    background-color: #5093E2; 
+    border: none;
+    border-radius: 8px;
+    color: black;
+    padding: 8px 21px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}

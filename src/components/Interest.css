@@ -1,0 +1,26 @@
+.Interest{
+    margin-top:0;
+    width: 237px;
+    height: 110px;
+    background-color: #1A1B21;
+    color: white;
+    text-align: left;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.Interest-content {
+    background-color: #1A1B21;
+    margin: 20px;
+    width: 217px;
+}
+.Interest-content h3{
+    background-color: #1A1B21;
+}
+
+.Interest-des{
+    
+    margin: 2px;
+    background-color: #1A1B21;
+    font-size: 12px;
+    margin-right: 20px;
+}

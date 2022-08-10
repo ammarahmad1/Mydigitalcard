@@ -1,0 +1,24 @@
+.About{
+    margin-top:0;
+    width: 237px;
+    height: 150px;
+    background-color: #1A1B21;
+    color: white;
+    text-align: left;
+}
+
+.About-content {
+    background-color: #1A1B21;
+    margin: 20px;
+    width: 217px;
+}
+
+.About-content h3{
+    background-color: #1A1B21;
+}
+.About-des{
+    margin: 2px;
+    margin-right: 20px;
+    background-color: #1A1B21;
+    font-size: 12px;
+}
